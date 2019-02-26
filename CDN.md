@@ -13,3 +13,5 @@ Edge Locations are not just Read only, you can write to them too. (Put an object
 Objects are cached for the life of the TTL (Time to live)
 
 You can clear cached objects, but you will be charged.
+
+Link will change to: https://d1cwtbnbaamlnn.cloudfront.net/bazzzzzzy.png
