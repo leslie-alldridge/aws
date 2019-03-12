@@ -19,3 +19,4 @@ You can't merge placement groups
 You can't move an existing instance into a placement group. But, you can create an AMI from your existing instance, and then launch a new instance from the AMI into a placement group. 
 
 If the exam only mentions 'placement group' assume they're talking about Clustered as Placements were only recently released.
+
